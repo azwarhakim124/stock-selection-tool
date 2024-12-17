@@ -1,0 +1,10 @@
+email,ticker,average,percentage_change,highest,lowest
+az@g,1155.KL,"Ticker
+1155.KL    9.3775
+dtype: float64","Ticker
+1155.KL    8.632281
+dtype: float64","Ticker
+1155.KL    9.83
+dtype: float64","Ticker
+1155.KL    8.89
+dtype: float64"
